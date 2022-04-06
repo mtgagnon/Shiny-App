@@ -1,1 +1,5 @@
 # ShinyApp
+
+As humans our land and location has decided many factors from what activities we do to how civilizations have developed. As such how we use our land and what happens to our land is incredibly important. This web-app shows exactly that, showing how the lower 48 United States have changes since settlers first got here, and also showing what percentages of natural land are left in each county. This app allows people to explore the US showing the contents of how each county is using their land, whether it is urban use or agricultural use, or is just left as natural land. When creating this app I found it extremely cool that the place I grew up in the Upper Peninsula of the US has some of the highest percentage of natural land use in the lower 48 states. What does your county look like? 
+
+This app is featured in the article: https://blog.nature.org/science/2022/03/02/whats-left-not-lost-a-story-of-recovery-and-the-evolution-of-a-new-shiny-app/ This app uses data from the forest landfire database to calculate the ecological composition of US counties. 
